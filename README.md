@@ -16,6 +16,8 @@ The evolution of the corresponding graph:
 ![image](image/Wolf2.jpg)
 ![image](image/Wolf3.jpg)
 
+To switch between the 2 there is the pink menu at the bottom left of the screen.
+
 # Subject
 
 ```
