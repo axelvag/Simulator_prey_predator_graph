@@ -90,6 +90,13 @@ theoretical obtained thanks to the Lotka-Volterra equations
 
 ```
 
+# Starting
+
+Clone this repo
+```
+$ git clone https://github.com/axelvag/Simulator_prey_predator_graph
+```
+
 # GrAPiC 
 
 ## Starting
