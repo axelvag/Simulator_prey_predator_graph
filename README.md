@@ -1,6 +1,18 @@
-#
+# Simulator Prey Predator Graph
+
+J'ai du simuler le système proies / prédateurs en me basant sur des règles
+de mort / survie telles qu’elles se produisent (approximativement) dans la nature. L’objectif est
+de suivre l’évolution de chaque population au cours du temps comme dans la version analytique
+basées sur les équations de Lotka-Volterra et de vérifier qu’on obtient un comportement
+similaire. Pour chaque individu on énoncera des règles (plus ou moins complexes et réalistes)
+de naissance, reproduction, survie et mort (par prédation, faim, ou encore vieillesse).
+
+Ce qu'il ce passe:
 
 ![image](image/Wolf1.jpg)
+
+L'evolution du graph correspondant:
+
 ![image](image/Wolf2.jpg)
 ![image](image/Wolf3.jpg)
 
